@@ -7,3 +7,5 @@ Run analysis
 Make table
 
 Make small figure
+
+publish results
