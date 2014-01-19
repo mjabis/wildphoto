@@ -11,3 +11,7 @@ Make header bold
 Make small figure, thick red line
 
 publish results
+
+Retract result
+
+Publicaqtion no. 2!
